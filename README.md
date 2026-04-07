@@ -1,2 +1,2 @@
 # FirstPersonShooter
-Lezioni su FPS in unity
+Lezione sugli FPS per Sistemi Interattivi Modulo 2
